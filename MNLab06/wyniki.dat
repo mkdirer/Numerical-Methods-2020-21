@@ -1,0 +1,34 @@
+m.z. x1 w 1 kroku =    1.22449  Rj =          240  Rjp =         -196
+m.z. x1 w 2 kroku =   0.952919  Rj =     -43.1289  Rjp =     -158.813
+m.z. x1 w 3 kroku =   0.999111  Rj =      10.5714  Rjp =      -228.86
+m.z. x1 w 4 kroku =          1  Rj =     0.195695  Rjp =     -220.179
+m.z. x1 w 5 kroku =          1  Rj =  7.96468e-05  Rjp =         -220
+m.z. x1 w 6 kroku =          1  Rj =  1.32729e-11  Rjp =         -220
+
+m.z. x2 w 1 kroku =   -5.45455  Rj =         -240  Rjp =          -44
+m.z. x2 w 2 kroku =   -4.46352  Rj =     -120.975  Rjp =      122.071
+m.z. x2 w 3 kroku =   -4.10825  Rj =     -24.2755  Rjp =      68.3304
+m.z. x2 w 4 kroku =   -4.00957  Rj =     -4.31754  Rjp =      43.7539
+m.z. x2 w 5 kroku =   -4.00009  Rj =    -0.347977  Rjp =      36.6891
+m.z. x2 w 6 kroku =         -4  Rj =  -0.00323665  Rjp =      36.0065
+m.z. x2 w 7 kroku =         -4  Rj = -2.90891e-07  Rjp =           36
+
+m.z. x3 w 1 kroku =         15  Rj =          -60  Rjp =            4
+m.z. x3 w 2 kroku =    9.20218  Rj =         5850  Rjp =         1009
+m.z. x3 w 3 kroku =    5.53752  Rj =      1687.53  Rjp =      460.488
+m.z. x3 w 4 kroku =    3.38316  Rj =      469.259  Rjp =      217.818
+m.z. x3 w 5 kroku =    2.33534  Rj =      118.159  Rjp =      112.767
+m.z. x3 w 6 kroku =     2.0277  Rj =        22.07  Rjp =       71.739
+m.z. x3 w 7 kroku =    2.00021  Rj =      1.67505  Rjp =      60.9441
+m.z. x3 w 8 kroku =          2  Rj =    0.0128842  Rjp =      60.0073
+m.z. x3 w 9 kroku =          2  Rj =  7.83733e-07  Rjp =           60
+
+m.z. x4 w 1 kroku =   -2.30769  Rj =           30  Rjp =           13
+m.z. x4 w 2 kroku =   -2.94284  Rj =      5.32544  Rjp =      8.38462
+m.z. x4 w 3 kroku =   -2.99954  Rj =     0.403409  Rjp =      7.11433
+m.z. x4 w 4 kroku =         -3  Rj =   0.00321531  Rjp =      7.00092
+m.z. x4 w 5 kroku =         -3  Rj =  2.10929e-07  Rjp =            7
+
+m.z. x5 w 1 kroku =        -10  Rj =           10  Rjp =            1
+m.z. x5 w 2 kroku =        -10  Rj =            0  Rjp =            1
+
